@@ -1,5 +1,7 @@
-## Bem-vindo(a) ao meu perfil 👋😊 me chamo Lucas e sou um desenvolvedor Front-End
+# Bem-vindo(a) ao meu perfil 👋😊 
+### Eu me chamo Lucas e sou um desenvolvedor Front-End 
 
+<br>
  <div>
    <a href="https://github.com/Lucascfer">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucascfer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
